@@ -5,7 +5,7 @@ My master project at KTH Applied Heat &amp; Refrigeration lab, in collaboration 
 MJ1432 Practical Energy Related Project: https://www.kth.se/student/kurser/kurs/MJ1432?l=en
 
 ## description of workflow
-The thermodynamics models were mainly developed using EES (engineering-equation solver), a MATLAB like scripting software that has very nice packages for refrigeration system.
+The thermodynamics models were mainly developed in EES (engineering-equation solver), a MATLAB-like scripting software that has very nice packages for refrigeration system.
 
 ## outcomes
 Thanks to KTH and Samer's generosity, I was able to present this semester project at an annual conference back then in Valencia, Spain.
